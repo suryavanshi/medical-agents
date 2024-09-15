@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.p-4 { padding: 1rem; }
+.space-y-4 > * + * { margin-top: 1rem; }
+.text-2xl { font-size: 1.5rem; }
+.font-bold { font-weight: 700; }
+.mb-4 { margin-bottom: 1rem; }
+.min-w-full { min-width: 100%; }
+.bg-white { background-color: white; }
+.bg-gray-800 { background-color: #1f2937; }
+.text-white { color: white; }
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+.text-left { text-align: left; }
+.bg-gray-100 { background-color: #f3f4f6; }
+.overflow-x-auto { overflow-x: auto; }
