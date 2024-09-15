@@ -1,0 +1,112 @@
+{
+  "weekdays": [
+    {
+      "day": "Monday",
+      "readings": [
+        {
+          "time": "8 AM",
+          "bloodPressure": "140/84",
+          "heartRate": 66
+        },
+        {
+          "time": "6 PM",
+          "bloodPressure": "130/80",
+          "heartRate": 82
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "readings": [
+        {
+          "time": "7 AM",
+          "bloodPressure": "155/70",
+          "heartRate": 77
+        },
+        {
+          "time": "8 PM",
+          "bloodPressure": "115/69",
+          "heartRate": 99
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "readings": [
+        {
+          "time": "6 AM",
+          "bloodPressure": "170/69",
+          "heartRate": 67,
+          "symptomNotes": "had coffee"
+        },
+        {
+          "time": "10 PM",
+          "bloodPressure": null,
+          "heartRate": 89
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "readings": [
+        {
+          "time": "9 AM",
+          "bloodPressure": "176/80",
+          "heartRate": 100
+        },
+        {
+          "time": "10 PM",
+          "bloodPressure": "140/90",
+          "heartRate": 59
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "readings": [
+        {
+          "time": "6 AM",
+          "bloodPressure": "130/80",
+          "heartRate": 92
+        },
+        {
+          "time": "8 PM",
+          "bloodPressure": "120/70",
+          "heartRate": 49
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "readings": [
+        {
+          "time": "7 AM",
+          "bloodPressure": "115/65",
+          "heartRate": 80
+        },
+        {
+          "time": "10 PM",
+          "bloodPressure": "180/70",
+          "heartRate": 65,
+          "symptomNotes": "headache"
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "readings": [
+        {
+          "time": "9 AM",
+          "bloodPressure": "130/80",
+          "heartRate": 77,
+          "symptomNotes": "doubled med."
+        },
+        {
+          "time": "11 PM",
+          "bloodPressure": "120/70",
+          "heartRate": 91
+        }
+      ]
+    }
+  ]
+}
