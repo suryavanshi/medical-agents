@@ -2,6 +2,12 @@
 
 Converting medical data into structured insights for doctors through AI-powered analysis and generative UX.
 
+## 🏗️ Architecture
+
+Below is the architecture diagram of the Medical Agents system:
+
+![Medical Agents Architecture](medical-agents.png)
+
 ## 🌟 Features
 
 - 🎤 Audio transcription and emotion analysis
