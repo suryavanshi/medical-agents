@@ -30,3 +30,8 @@ Below is the architecture diagram of the Medical Agents system:
 - Hume.ai for Audio and Video Emotion Detection
 - Claude Sonnet for Image to JSON
 
+## Handwritten Patient Info
+![Patient Written Data](chart.jpeg)  
+
+## Flowchart using Mermaid.js
+![Flowchart using Mermaid.js from handwritten image](med_flowchart.png)
